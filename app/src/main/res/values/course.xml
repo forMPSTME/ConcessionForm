@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="course_arr">
+        <item>B.Tech</item>
+        <item>MBA Tech</item>
+        <item>B.Tech Integrated</item>
+        <item>MCA</item>
+    </string-array>
+</resources>
